@@ -2,29 +2,29 @@
     <sys_script_include action="INSERT_OR_UPDATE">
         <access>package_private</access>
         <active>true</active>
-        <api_name>sn_nomid2.sc6</api_name>
+        <api_name>sn_nomid2.sc7</api_name>
         <caller_access/>
         <client_callable>false</client_callable>
         <description/>
-        <name>sc6</name>
-        <script><![CDATA[var sc6 = Class.create();
-sc6.prototype = {
+        <name>sc7</name>
+        <script><![CDATA[var sc7 = Class.create();
+sc7.prototype = {
     initialize: function() {
     },
 
-    type: 'sc6'
+    type: 'sc7'
 };]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-09-05 17:02:25</sys_created_on>
-        <sys_id>a530670c777333004d4eb5b268106154</sys_id>
+        <sys_created_on>2019-09-05 17:09:06</sys_created_on>
+        <sys_id>6bb1670c777333004d4eb5b268106191</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>sc6</sys_name>
+        <sys_name>sc7</sys_name>
         <sys_package display_value="nomid2" source="sn_nomid2">6c697e48773333004d4eb5b268106146</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="nomid2">6c697e48773333004d4eb5b268106146</sys_scope>
-        <sys_update_name>sys_script_include_a530670c777333004d4eb5b268106154</sys_update_name>
+        <sys_update_name>sys_script_include_6bb1670c777333004d4eb5b268106191</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-09-05 17:02:25</sys_updated_on>
+        <sys_updated_on>2019-09-05 17:09:06</sys_updated_on>
     </sys_script_include>
 </record_update>
