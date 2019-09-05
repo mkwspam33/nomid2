@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include"><sys_script_include action="DELETE"><access>package_private</access><active>true</active><api_name>sn_nomid2.sc8</api_name><caller_access/><client_callable>false</client_callable><description>mod</description><name>sc8</name><script><![CDATA[var sc8 = Class.create();
+sc8.prototype = {
+    initialize: function() {
+    },
+
+    type: 'sc8'
+};]]></script><sys_class_name>sys_script_include</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-05 17:16:42</sys_created_on><sys_id>0773e38c777333004d4eb5b268106108</sys_id><sys_mod_count>1</sys_mod_count><sys_name>sc8</sys_name><sys_package display_value="nomid2" source="sn_nomid2">6c697e48773333004d4eb5b268106146</sys_package><sys_policy>read</sys_policy><sys_scope display_value="nomid2">6c697e48773333004d4eb5b268106146</sys_scope><sys_update_name>sys_script_include_0773e38c777333004d4eb5b268106108</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-05 17:18:46</sys_updated_on></sys_script_include></record_update>
